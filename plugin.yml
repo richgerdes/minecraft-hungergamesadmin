@@ -1,0 +1,37 @@
+name: HGAdmin
+main: net.tigerclan.KingLinkTiger.HGAdmin.HGAdmin
+author: KingLinkTiger
+version: '1.0'
+commands:
+    hga:
+        start:
+            description: Start the game
+            usage: /hga start
+        reset:
+            description: Reset the game
+            usage: /hga reset
+        stop:
+            description: Stop the game
+            usage: /hga stop
+        newmap:
+            description: Stop the game and generate a new map
+            usage: /hga newmap
+        visible:
+            description: Stop the game and generate a new map
+            usage: /hga visible
+    hgadmin:
+        start:
+            description: Start the game
+            usage: /hgadmin start
+        reset:
+            description: Reset the game
+            usage: /hgadmin reset
+        stop:
+            description: Stop the game
+            usage: /hgadmin stop
+        newmap:
+            description: Stop the game and generate a new map
+            usage: /hgadmin newmap
+        visible:
+            description: Stop the game and generate a new map
+            usage: /hgadmin visible
